@@ -1,5 +1,5 @@
-# Loyal
-
+# Loyal Privacy
+<a href="https://freeimage.host/"><img src="https://iili.io/fwkLz0P.png" alt="fwkLz0P.png" border="0" /></a>
 Fully private, on-chain AI platform built on Solana.
 
 ## What is Loyal?
@@ -76,12 +76,6 @@ src/
 ├── hooks/           # React hooks
 └── data/            # Static data and content
 ```
-
-## Links
-
-- **Website**: [askloyal.com](https://askloyal.com)
-- **Docs**: [docs.askloyal.com](https://docs.askloyal.com)
-- **Discord**: [discord.askloyal.com](https://discord.askloyal.com)
 
 ## Status
 
